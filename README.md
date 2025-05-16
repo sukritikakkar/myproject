@@ -1,27 +1,37 @@
-# Python project on student stress and GPA prediction
-This data analysis project explores how different lifestyle factors such as sleep,study time and extracurricular activities affect academic performance and stress levels.
-# Objectives
-- Study the correlation between different lifestyle factors in context of GPA and Stress Level.
+# 🧠 Student Stress and GPA Prediction
+
+This data analysis project explores how various lifestyle factors such as sleep, study time, and physical activity influence student GPA and stress levels. The project uses machine learning models to predict both GPA and stress levels based on behavior patterns.
+
+## 📌 Objectives
+- Analyze the correlation between lifestyle habits and academic performance
 - Predict GPA using Linear Regression
 - Predict Stress Level using Logistic Regression
 
-# Dataset Overview
+## 📊 Dataset Overview
 - 2000 student records with no missing or null values
-- Features: Sleep Hours, Study Hours, Physical Activity Hours,Extracurricular Activities Hours,Social Hours,GPA and Stress Level(High,Moderate,Low)
+- Features include:
+  - Sleep Hours
+  - Study Hours
+  - Physical Activity Hours
+  - Extracurricular Activities
+  - Social Hours
+  - GPA
+  - Stress Level (High, Moderate, Low)
 
-# Tools & Technologies
-- Python: pandas,seaborn,matplotlib,sci-kit learn
+## 🧰 Tools Used
+- Python: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`
 - Jupyter Notebook
 
-# Key Findings
-- GPA is strongly correlated with study hours(+0.73)
-- Stress and GPA both increase with study hours while decrease with sleep and exercise
-- GPA and Stress are moderately related(+0.55)
-- While the trend is as stated above, there are exceptions as seen in boxplots where students with low stress have higher GPA than students with high stress
-- Logistic Regression achieved 86% accuracy for stress level prediction
+## 🔍 Key Insights
+- GPA is strongly correlated with study hours (**+0.73**)
+- Stress and GPA both increase with study hours, and decrease with sleep and physical activity
+- GPA and Stress Level are moderately correlated (**+0.55**)
+- Boxplots reveal some students with low stress and high GPA — exceptions to the general trend
+- Logistic Regression achieved **86% accuracy** in predicting stress levels
 
-# Project Status
-Complete: Explanatory Data Analysis, Modeling, Evaluation.
+## ✅ Project Status
+Complete: Data Cleaning, Exploratory Data Analysis, Modeling, and Evaluation
+
 
 
 
