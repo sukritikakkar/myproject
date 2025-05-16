@@ -29,6 +29,14 @@ This data analysis project explores how various lifestyle factors such as sleep,
 - Boxplots reveal some students with low stress and high GPA — exceptions to the general trend
 - Logistic Regression achieved **86% accuracy** in predicting stress levels
 
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/9e15b080-1486-4ae2-8409-c543fe051ebd)
+![image](https://github.com/user-attachments/assets/dd38b47b-1a8e-4608-8a8e-6ffdb5bcc27f)
+![image](https://github.com/user-attachments/assets/75d9e9bc-c21e-44d8-b624-623e7c0e0a9a)
+![image](https://github.com/user-attachments/assets/65e251a8-dfc1-45f8-bacd-eef493003b01)
+![image](https://github.com/user-attachments/assets/24a41b0a-ba2b-4f46-a3c5-351dda400fb0)
+
+
 ## ✅ Project Status
 Complete: Data Cleaning, Exploratory Data Analysis, Modeling, and Evaluation
 
